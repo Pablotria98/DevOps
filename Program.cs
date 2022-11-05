@@ -1,5 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
+// This is a local change.
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
